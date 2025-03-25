@@ -13,4 +13,5 @@ Create new directory called "Project" and as many files as you have classes. Mak
 For now, do not worry about the implementation of the relationships.
 Please upload .png file with you diagram and the directory with your project. 
 
-![alt text](/Users/dmytro/Desktop/aml-alk/homework_4/diagram_bank.png)
+![Diagram](diagram_bank.png)
+
